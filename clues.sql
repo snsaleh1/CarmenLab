@@ -4,6 +4,9 @@
  
 -- Write SQL query here
 
+-- SELECT * FROM country ORDER BY population ASC;
+-- SELECT name, MIN(population) FROM country WHERE region = 'Southern Europe' GROUP BY name ORDER BY MIN(population);
+-- SELECT * FROM country WHERE region = 'Southern Europe' AND population = (SELECT MIN (population) from country WHERE region = 'Southern Europe');
 
 -- Clue #2: Now that we're here, we have insight that Carmen was seen attending language classes in
 -- this country's officially recognized language. Check our databases and find out what language is
