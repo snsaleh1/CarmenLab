@@ -22,6 +22,7 @@
 
 -- Write SQL query here
 
+-- SELECT countrycode FROM countrylanguage WHERE language = 'Italian' AND percentage = 100;
 
 -- Clue #4: We're booking the first flight out – maybe we've actually got a chance to catch her this time.
 -- There are only two cities she could be flying to in the country. One is named the same as the country – that
