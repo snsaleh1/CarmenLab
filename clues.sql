@@ -31,6 +31,8 @@
 
 -- Write SQL query here
 
+-- SELECT name FROM city WHERE countrycode = 'SMR';
+
 
 -- Clue #5: Oh no, she pulled a switch – there are two cities with very similar names, but in totally different
 -- parts of the globe! She's headed to South America as we speak; go find a city whose name is like the one we were
