@@ -56,6 +56,7 @@ SELECT name FROM city WHERE id= 211;
 -- landing dock. Lucky for us, she's getting cocky. She left us a note (below), and I'm sure she thinks she's very clever, but
 -- if we can crack it, we can finally put her where she belongs – behind bars.
 
+SELECT * FROM city WHERE population = 91084;
 
 --               Our playdate of late has been unusually fun –
 --               As an agent, I'll say, you've been a joy to outrun.
